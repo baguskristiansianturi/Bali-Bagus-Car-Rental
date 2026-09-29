@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120" role="img" aria-labelledby="title desc">
+<title>Bali Bagus Car Rental</title><desc>Premium Bali Bagus Car Rental logo with BB monogram and road motif</desc>
+<rect width="120" height="120" rx="26" fill="#111"/>
+<path d="M32 78c10-27 18-42 28-42s18 15 28 42" fill="none" stroke="#f2c94c" stroke-width="7" stroke-linecap="round"/>
+<path d="M39 78h42" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+<text x="60" y="68" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="30" font-weight="800">BB</text>
+<text x="145" y="53" fill="#111" font-family="Arial,sans-serif" font-size="31" font-weight="800" letter-spacing="1.5">BALI BAGUS</text>
+<text x="147" y="84" fill="#777" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="5">CAR RENTAL</text>
+</svg>
